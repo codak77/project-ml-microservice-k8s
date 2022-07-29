@@ -25,10 +25,6 @@ jobs:
           name: install dependencies
           command: |
             apt update
-            apt install -y software-properties-common
-            add-apt-repository --yes ppa:deadsnakes/ppa
-            apt install -y python3.7
-            apt install -y python3.7-venv
             python3 -m venv venv
             . venv/bin/activate
             make install
