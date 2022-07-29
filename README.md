@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![hacklight](https://circleci.com/gh/hacklight/project-ml-microservice-k8s.svg?style=svg)](https://app.circleci.com/pipelines/github/hacklight/project-ml-microservice-k8s)
 
 ## Project Overview
 
