@@ -9,7 +9,7 @@ docker build -t nanodegree-project4 .
 
 # Step 2: 
 # List docker images
-docker images ls
+docker image ls
 
 # Step 3: 
 # Run flask app
