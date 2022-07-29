@@ -4,9 +4,13 @@
 
 # Step 1:
 # Build image and add a descriptive tag
+docker build -t nanodegree-project4 .
+
 
 # Step 2: 
 # List docker images
+docker images ls
 
 # Step 3: 
 # Run flask app
+docker run -p 8000:80 nanodegree-project4 
