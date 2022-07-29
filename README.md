@@ -1,4 +1,4 @@
-[![hacklight](https://circleci.com/gh/hacklight/project-ml-microservice-k8s.svg?style=svg)](https://app.circleci.com/pipelines/github/hacklight/project-ml-microservice-k8s)
+[![Hack-Light](https://circleci.com/gh/Hack-Light/project-ml-microservice-k8s.svg?style=svg)](https://app.circleci.com/pipelines/github/Hack-Light/project-ml-microservice-k8s)
 
 ## Project Overview
 
